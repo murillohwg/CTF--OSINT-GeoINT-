@@ -1,5 +1,7 @@
 # Writeup — CTF OSINT/GEOINT: "A Marcação que Entregou Tudo"
 
+![Certificado](./docs/certified.png) 
+
 ## Descrição do desafio
 
 > “Uma das regras de ouro do OSINT não é só o que você posta… é o que postam sobre você.
