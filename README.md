@@ -29,6 +29,8 @@ FLAG{XXXXXX_XXXXX_XXXXX}
 # Objetivo
 
 Identificar o local exato onde a fotografia foi tirada utilizando técnicas de GEOINT/OSINT.
+![image](./docs/image.png) 
+fotografia
 
 ---
 
